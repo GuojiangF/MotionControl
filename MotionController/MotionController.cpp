@@ -11,7 +11,7 @@ MOTIONCONTROLLER_API int nMotionController=0;
 // 这是导出函数的一个示例。
 MOTIONCONTROLLER_API int fnMotionController(void)
 {
-    return 42;
+    return 0;
 }
 
 // 这是已导出类的构造函数。
